@@ -9,3 +9,8 @@ In this lab you will create a functioning button using the button tag.
 
 ---
 
+### Sample Output
+
+A button should appear, which when clicked will trigger a popup window in the browser.
+
+---
