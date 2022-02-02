@@ -1,7 +1,7 @@
 ## Javalin HTML Button Tag
 ---
 ### Description
-In this lab you will create a functioning button using the button tag.
+In this lab, you will create a functioning button using the button tag.
 
 ---
 ### Steps
@@ -11,6 +11,6 @@ In this lab you will create a functioning button using the button tag.
 
 ### Sample Output
 
-A button should appear, which when clicked will trigger a popup window in the browser.
+A button should appear, which when clicked, will then trigger a popup window in the browser that will state the user won a video game console.
 
 ---
