@@ -1,4 +1,4 @@
-## Javalin HTML Button Tag
+## HTML Button Tag
 ---
 ### Description
 In this lab, you will create a functioning button using the button tag.
