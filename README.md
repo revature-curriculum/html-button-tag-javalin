@@ -1,4 +1,4 @@
-## HTML Button Tag
+## HTML Button Tag Answer
 ---
 ### Description
 In this lab, you will create a functioning button using the button tag.
